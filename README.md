@@ -8,4 +8,4 @@ added text locally
 
 added text in new branch "newbranch"
 
-conflict resolution
+conflict resolution (text in the browser)
