@@ -10,3 +10,4 @@ added text in new branch "newbranch"
 
 conflict resolution (locally text)
 
+conflict resolution (text in the browser)
