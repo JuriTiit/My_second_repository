@@ -7,3 +7,5 @@ added text from web browser
 added text locally
 
 added text in new branch "newbranch"
+
+added locally conflict
